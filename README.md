@@ -1,6 +1,6 @@
-# helloflutter
+# MemorEase
 
-A new Flutter project.
+My first (and currently favorite) Flutter project.
 
 ## Getting Started
 
