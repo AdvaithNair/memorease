@@ -2,7 +2,7 @@
 
 My first (and currently favorite) Flutter project.
 MemorEase is a simple list management app with a modern UI. You can read more at www.advaithnair.com/memorease.
-(https://static.wixstatic.com/media/c74cc7_1bc4ba4b37d64f84bf5beb028fe22de1~mv2_d_6250_6250_s_4_2.png/v1/fill/w_920,h_920,al_c,q_85,usm_0.66_1.00_0.01/icon.webp)
+![Description](https://static.wixstatic.com/media/c74cc7_1bc4ba4b37d64f84bf5beb028fe22de1~mv2_d_6250_6250_s_4_2.png/v1/fill/w_920,h_920,al_c,q_85,usm_0.66_1.00_0.01/icon.webp)
 
 # Pictures
 ### Home Screen
